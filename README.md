@@ -12,7 +12,7 @@ It is constructed using Django and React, using MySQL for database management.
 
 Credits:
 
-Connor Jewell (Team Lead) [cj128@uakron.edu]<mailto:cj128@uakron.edu>
-Raymond Jindra [rj103@uakron.edu]<mailto:rj103@uakron.edu>
-Jo Richmond [jr362@uakron.edu]<mailto:jr362@uakron.edu>
+Connor Jewell (Team Lead) \[cj128@uakron.edu][mailto:cj128@uakron.edu](mailto:cj128@uakron.edu)
+Raymond Jindra \[rj103@uakron.edu][mailto:rj103@uakron.edu](mailto:rj103@uakron.edu)
+Jo Richmond \[jr362@uakron.edu][mailto:jr362@uakron.edu](mailto:jr362@uakron.edu)
 
