@@ -1,0 +1,4 @@
+.venv/
+dbmTP/node_modules/
+dbmTP/dbmTP/__pycache__/
+dbmTP/dbmTP/migrations
