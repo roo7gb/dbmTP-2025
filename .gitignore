@@ -1,5 +1,6 @@
 .venv/
 dbmTP/node_modules/
+node_modules/
 dbmTP/dbmTP/__pycache__/
 dbmTP/myapp/migrations/
 dbmTP/myapp/__pycache__/
