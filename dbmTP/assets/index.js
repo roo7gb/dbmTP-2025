@@ -1,6 +1,6 @@
 import React from 'react';
+import RCodeEditor from "./app";
 import { createRoot } from 'react-dom/client';
-import MyApp from './app.js';
 
 const root = createRoot(document.getElementById('root'));
-root.render(<MyApp />);
+root.render(<RCodeEditor />)
